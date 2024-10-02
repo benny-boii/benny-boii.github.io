@@ -1,2 +1,3 @@
-# benny-boii.github.io
-A website for me, Benny!
+### Benny
+
+Hey there, I'm Benny! Welcome to my site!
